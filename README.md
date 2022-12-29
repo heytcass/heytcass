@@ -1,5 +1,9 @@
 ### Hiya! 👋
 
+I am a self-taught homelabber and open-source advocate with a background in technology 💡 and writing 📝. I have been active in the [**Home Assistant** 🏠](https://github.com/home-assistant) community since March 2015 and am proficient in **YAML** and learning **Kubernetes**. My main focus is on improving my smart home and finding new ways to contribute to the tech community.
+
+If you are interested in collaborating on projects or discussing tech topics, feel free to reach out to me! I am always looking for new opportunities to learn and grow in the tech industry.
+
 <!--
 **heytcass/heytcass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
